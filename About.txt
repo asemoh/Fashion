@@ -1,0 +1,63 @@
+Title: Fashion – Bootstrap 4 HTML5 eCommerce Website Template
+
+Description: Fashion is an exotic Bootstrap 
+template for eCommerce websites. With Fashion, you can craft a niche or a general 
+male fashion online store and even expand it worldwide. It is highly responsive, 
+finely-optimized, fluid, and adaptive to all the available browsers and devices. 
+This web canvas can reach more viewers through its charismatic and bold, stylish presence.
+
+
+Bootstrap 4 HTML5 eCommerce Website Template
+Moreover, the list of features and functions of Fashion is quite vast and dynamic. Like hero header with slider,
+call-to-action button, drop-down menu, countdown timer, Instagram Feeds, newsletter subscription form, 
+blog section, and you name it. This web attire comes with a well-structured and detailed set of codes, 
+which is why you use it straight out of the box. Giving it your signature style is pretty much easy for anyone who has some knowledge about HTML & CSS.
+ So, start your eCommerce project with Fashion and give it wings.
+
+Key Features
+Bootstrap 4
+HTML5 & CSS3
+Cross-browser compatibility
+Multi-page template
+Clean & dynamic design
+Fully responsive
+CSS3 preloader
+Hero header with slider
+Hover effects
+Drop-down menu
+Countdown timer
+Instagram Feeds
+Blog section
+Newsletter subscription form
+Sorted product grid
+Call to action button
+Breadcrumbs
+Search option
+Fun fact counters
+Product detail pages
+Google Maps
+Modal image view
+Shopping cart
+Checkout pages
+Blog section
+Comment form UI
+Contact form
+Footer navigation
+FontAwesome font icons
+
+In The Box
+All demo images
+10 HTML files
+Font Icons
+CSS & SCSS files
+JavaScript source files
+Library and plugin files
+
+
+Libraries and Plugins
+Bootstrap 4
+jQuery
+Fontawesome
+Owl carousel
+Magnific-popup
+SlickNav
